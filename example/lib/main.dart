@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
 
 class Body extends StatelessWidget {
   const Body({
-    Key key,
+    Key? key,
   }) : super(key: key);
 
   @override
